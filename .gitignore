@@ -1,0 +1,25 @@
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+**bin
+*.out
+
+# Editor and IDE paraphernalia
+.idea
+.vscode
+*.swp
+*.swo
+*~
+
+# Repo specific
+**__pycache__**
+.env
+*/tmp
+*.db
+*/lease
+.DS_Store
+*/metrics
+*/logs
