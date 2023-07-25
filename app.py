@@ -12,7 +12,7 @@ def create_app():
         'title': 'BOILERPLATE API SWAGGER',
         'description': 'NONE.',
         'contact': {
-            'responsibleOrganization': 'https://www.seela.io/',
+            'responsibleOrganization': 'derg_dev',
             'responsibleDeveloper': 'NONE'
         }
     }
